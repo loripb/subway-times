@@ -6,8 +6,8 @@ export default {
     Root: {
       path: 'root',
       screens: {
-        Home: 'home',
-        Links: 'links',
+        Lines: 'lines',
+        StarredStops: 'starredStops',
       },
     },
   },
